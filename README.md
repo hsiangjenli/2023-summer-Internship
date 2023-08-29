@@ -8,7 +8,7 @@
 # colab 線上執行 python `.ipynb` 檔案
 **`google colab`**  由 google 所提供的服務，只需要有 google 帳號就可以免費用 web-based 的方式去執行 python 檔案。點選 `Open In Colab` 來試試看吧!!!
 
-## 🚀 用下拉選單選擇爬蟲目標
+## 🚀 用下拉選單選擇爬蟲目標 & 選擇總共要爬幾頁
 
 ![1](https://github.com/hsiangjenli/2023-summer-Internship/blob/master/images/colab_1.png?raw=true)
 

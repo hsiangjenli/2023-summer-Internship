@@ -1,5 +1,9 @@
 # **Summer Internship <small>@SCSB</small>**
 
+## 輿情系統
+- [重新安裝以及環境設置](docs/poa_system__installation.md)
+- [使用教學](docs/poa_system__usage.md)
+
 ## colab 線上執行 python `.ipynb` 檔案
 **`google colab`**  由 google 所提供的服務，只需要有 google 帳號就可以免費用 web-based 的方式去執行 python 檔案。點選 `Open In Colab` 來試試看吧!!!
 

@@ -28,7 +28,7 @@
 `WslRegisterDistribution failed with error: 0x800701bc`
 > ![](https://hackmd.io/_uploads/ryK8HDuKh.png)
 ### 重新進入 Ubuntu，它會要你先設定帳號、密碼，然後你就可以在 windows 上跑 Ubuntu 了
-![](https://hackmd.io/_uploads/ryP5PD_th.png)
+> ![](https://hackmd.io/_uploads/ryP5PD_th.png)
 
 ## Docker Desktop
 到官網下載 [Docker Desktop](https://www.docker.com/products/docker-desktop/)，下載完就可以使用了。
@@ -36,8 +36,8 @@
 # 重新部屬程式
 在本資料夾，按右鍵開啟在終端機，並且在終端機貼上該指令即可重新部屬
 
-![Image](https://i.imgur.com/dD8zMBo.png)
-![Image](https://i.imgur.com/twsCsiW.png)
+> ![Image](https://i.imgur.com/dD8zMBo.png)
+> ![Image](https://i.imgur.com/twsCsiW.png)
 
 ```
 docker compose up --build --force recreate

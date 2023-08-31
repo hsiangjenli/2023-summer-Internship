@@ -1,6 +1,6 @@
 # 輿情分析系統使用方式
 
-## ⭐ 記得放在 `Download` 底下的 `scsb-public-opinion-analysis-platform` 資料夾不要刪掉
+## 記得放在 `Download` 底下的 `scsb-public-opinion-analysis-platform` 資料夾不要刪掉
 因為資料庫的資料是綁在這個路徑底下
 
 ## 點擊 Docker Desktop（一定要開）
